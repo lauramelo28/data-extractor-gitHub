@@ -1,6 +1,6 @@
-# 📈data-extractor-gitHub
+# 📈 Análise de repositorios populares no GitHub - [Lab01S01]
 
-💻Laboratório de Experimentação de Software - Análise de repositorios populares no GitHub.
+💻Laboratório de Experimentação de Software 
 
 Esse projeto tem como objetivo estudar as principais características de sistemas populares open-source. 
 Dessa forma, vamos analisar como eles são desenvolvidos, com que frequência recebem contribuição externa, com qual frequência lançam releases, entre outras características. 
