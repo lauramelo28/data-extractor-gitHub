@@ -24,13 +24,13 @@ def run_graphql_query(query, variables=None):
         if response.status_code == 200:
             result = response.json()
             if "errors" in result:
-                raise Exception(f"GraphQL errors: {result['errors']}")
+                raise Exception(f"Erro no GraphQL: {result['errors']}")
             return result["data"]
         elif response.status_code == 502 and attempt < retry_attempts - 1:
             print(f"Retrying due to 502 error (attempt {attempt + 1})...")
             time.sleep(3)  # Aguarda 3 segundos antes de tentar novamente
         else:
-            raise Exception(f"Failed to execute query: {response.status_code}, {response.text}")
+            raise Exception(f"Erro ao executar a query: {response.status_code}, {response.text}")
 
 # Função para obter os repositórios mais populares com base no número de estrelas com paginação
 def get_popular_repos(num_repos):
