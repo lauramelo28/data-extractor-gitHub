@@ -1,9 +1,9 @@
 from dateutil import parser
 from datetime import datetime, timezone
 
-# Função para formatar a data
+# Função para formatar uma data  do formato ISO (yyyy-MM-ddTHH:mm:ssZ) para dd/MM/yyyy HH:mm:ss
 def format_date(iso_date, date_format="%d/%m/%Y %H:%M:%S"):
-    date = parser.isoparse(iso_date)    
+    date = parser.isoparse(iso_date)
     return date.strftime(date_format)
 
 # Função para calcular a quantidade de dias entre a data atual e a data recebida (cálculo da idade do repositório e cálculo do tempo de atualização)
@@ -13,7 +13,7 @@ def calculate_time_between_dates_in_days(iso_date):
     age = (now - creation_date).days
     return age
 
-# Função para calcular a porcentagem de issues fechadas
+# Função para calcular a razão entre o número de issues fechadas e o total de issues
 def calculate_closed_issues_percentage(closed_issues, total_issues):
     if total_issues == 0:
         return 0

@@ -38,8 +38,8 @@ Métrica: razão entre número de issues fechadas pelo total de issues Relatóri
 
 ## 💻 Para compilação e execução do sistema:
 1. Clone o repositório do projeto;
-2. Copie e cole o .env.exemple. Em seguida remova o '.exemple' e cole seu token de acesso do github. 
-3. Instale as dependências das bibliotecas usadas como `pip install dotenv`, `pip install requests` e `pip install python-dateutil`.
+2. Crie um arquivo .env com a mesma estrutura e no mesmo nível do .env.example. Em seguida gere um token de acesso do github e substitua o PERSONAL_ACCESS_TOKEN.
+3. Instale as dependências das bibliotecas usadas como `pip install load_dotenv`, `pip install requests` e `pip install python-dateutil`.
 4. Execute o arquivo `main.py`
 
 ## 📝 Sobre o projeto:

@@ -1,6 +1,6 @@
 #1 Repositorio: freeCodeCamp
 - URL: https://github.com/freeCodeCamp/freeCodeCamp
-- Total de Estrelas: 399156
+- Total de Estrelas: 399161
 - Data da criacao: 24/12/2014 17:49:19
 - Data da ultima atualizacao: 16/08/2024 18:51:40
 - Total de Issues: 18186
@@ -14,7 +14,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #2 Repositorio: free-programming-books
 - URL: https://github.com/EbookFoundation/free-programming-books
-- Total de Estrelas: 331613
+- Total de Estrelas: 331612
 - Data da criacao: 11/10/2013 06:50:37
 - Data da ultima atualizacao: 22/07/2024 12:51:12
 - Total de Issues: 1089
@@ -28,7 +28,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #3 Repositorio: awesome
 - URL: https://github.com/sindresorhus/awesome
-- Total de Estrelas: 319749
+- Total de Estrelas: 319764
 - Data da criacao: 11/07/2014 13:42:37
 - Data da ultima atualizacao: 14/08/2024 11:56:32
 - Total de Issues: 340
@@ -42,7 +42,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #4 Repositorio: public-apis
 - URL: https://github.com/public-apis/public-apis
-- Total de Estrelas: 310085
+- Total de Estrelas: 310094
 - Data da criacao: 20/03/2016 23:49:42
 - Data da ultima atualizacao: 02/08/2024 13:59:32
 - Total de Issues: 600
@@ -56,7 +56,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #5 Repositorio: coding-interview-university
 - URL: https://github.com/jwasham/coding-interview-university
-- Total de Estrelas: 302531
+- Total de Estrelas: 302540
 - Data da criacao: 06/06/2016 02:34:12
 - Data da ultima atualizacao: 16/08/2024 00:07:38
 - Total de Issues: 438
@@ -70,7 +70,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #6 Repositorio: build-your-own-x
 - URL: https://github.com/codecrafters-io/build-your-own-x
-- Total de Estrelas: 295354
+- Total de Estrelas: 295380
 - Data da criacao: 09/05/2018 12:03:18
 - Data da ultima atualizacao: 06/08/2024 00:02:50
 - Total de Issues: 661
@@ -84,13 +84,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #7 Repositorio: developer-roadmap
 - URL: https://github.com/kamranahmedse/developer-roadmap
-- Total de Estrelas: 287757
+- Total de Estrelas: 287764
 - Data da criacao: 15/03/2017 13:45:52
-- Data da ultima atualizacao: 18/08/2024 15:40:57
+- Data da ultima atualizacao: 18/08/2024 20:49:01
 - Total de Issues: 2159
 - Total de Issues fechadas: 2118
 [RQ 01] Idade do repositorio (em dias): 2713
-[RQ 02] Total de pull requests aceitas: 3841
+[RQ 02] Total de pull requests aceitas: 3844
 [RQ 03] Total de releases: 1
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: TypeScript
@@ -98,7 +98,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #8 Repositorio: 996.ICU
 - URL: https://github.com/996icu/996.ICU
-- Total de Estrelas: 269621
+- Total de Estrelas: 269620
 - Data da criacao: 26/03/2019 07:31:14
 - Data da ultima atualizacao: 20/02/2024 13:38:26
 - Total de Issues: 0
@@ -112,7 +112,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #9 Repositorio: system-design-primer
 - URL: https://github.com/donnemartin/system-design-primer
-- Total de Estrelas: 267240
+- Total de Estrelas: 267246
 - Data da criacao: 26/02/2017 16:15:28
 - Data da ultima atualizacao: 29/06/2024 00:09:29
 - Total de Issues: 294
@@ -126,7 +126,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #10 Repositorio: react
 - URL: https://github.com/facebook/react
-- Total de Estrelas: 226389
+- Total de Estrelas: 226391
 - Data da criacao: 24/05/2013 16:15:54
 - Data da ultima atualizacao: 18/08/2024 16:31:45
 - Total de Issues: 13090
@@ -140,15 +140,15 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #11 Repositorio: awesome-python
 - URL: https://github.com/vinta/awesome-python
-- Total de Estrelas: 216000
+- Total de Estrelas: 216009
 - Data da criacao: 27/06/2014 21:00:06
 - Data da ultima atualizacao: 17/07/2024 21:16:44
 - Total de Issues: 0
 - Total de Issues fechadas: 0
-[RQ 01] Idade do repositorio (em dias): 3704
+[RQ 01] Idade do repositorio (em dias): 3705
 [RQ 02] Total de pull requests aceitas: 1922
 [RQ 03] Total de releases: 0
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 31
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 32
 [RQ 05] Linguagem primaria: Python
 [RQ 06] Percentual de Issues fechadas: 0%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -168,7 +168,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #13 Repositorio: project-based-learning
 - URL: https://github.com/practical-tutorials/project-based-learning
-- Total de Estrelas: 192493
+- Total de Estrelas: 192509
 - Data da criacao: 12/04/2017 05:07:46
 - Data da ultima atualizacao: 21/03/2023 10:24:20
 - Total de Issues: 160
@@ -182,7 +182,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #14 Repositorio: awesome-selfhosted
 - URL: https://github.com/awesome-selfhosted/awesome-selfhosted
-- Total de Estrelas: 191221
+- Total de Estrelas: 191238
 - Data da criacao: 01/06/2015 02:33:17
 - Data da ultima atualizacao: 18/08/2024 09:45:51
 - Total de Issues: 804
@@ -196,7 +196,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #15 Repositorio: javascript-algorithms
 - URL: https://github.com/trekhleb/javascript-algorithms
-- Total de Estrelas: 186233
+- Total de Estrelas: 186234
 - Data da criacao: 24/03/2018 07:47:04
 - Data da ultima atualizacao: 13/07/2024 19:28:34
 - Total de Issues: 351
@@ -204,19 +204,19 @@
 [RQ 01] Idade do repositorio (em dias): 2339
 [RQ 02] Total de pull requests aceitas: 752
 [RQ 03] Total de releases: 0
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 35
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 36
 [RQ 05] Linguagem primaria: JavaScript
 [RQ 06] Percentual de Issues fechadas: 63.53%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #16 Repositorio: tensorflow
 - URL: https://github.com/tensorflow/tensorflow
-- Total de Estrelas: 184767
+- Total de Estrelas: 184770
 - Data da criacao: 07/11/2015 01:19:20
-- Data da ultima atualizacao: 18/08/2024 09:31:39
+- Data da ultima atualizacao: 18/08/2024 20:09:57
 - Total de Issues: 39636
 - Total de Issues fechadas: 37849
 [RQ 01] Idade do repositorio (em dias): 3207
-[RQ 02] Total de pull requests aceitas: 33748
+[RQ 02] Total de pull requests aceitas: 33752
 [RQ 03] Total de releases: 208
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: C++
@@ -232,13 +232,13 @@
 [RQ 01] Idade do repositorio (em dias): 2955
 [RQ 02] Total de pull requests aceitas: 9512
 [RQ 03] Total de releases: 0
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 5
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 6
 [RQ 05] Linguagem primaria: Python
 [RQ 06] Percentual de Issues fechadas: 98.15%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #18 Repositorio: You-Dont-Know-JS
 - URL: https://github.com/getify/You-Dont-Know-JS
-- Total de Estrelas: 178594
+- Total de Estrelas: 178595
 - Data da criacao: 16/11/2013 02:37:24
 - Data da ultima atualizacao: 02/08/2024 23:04:36
 - Total de Issues: 925
@@ -252,9 +252,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #19 Repositorio: linux
 - URL: https://github.com/torvalds/linux
-- Total de Estrelas: 176502
+- Total de Estrelas: 176507
 - Data da criacao: 04/09/2011 22:48:12
-- Data da ultima atualizacao: 18/08/2024 17:19:49
+- Data da ultima atualizacao: 18/08/2024 20:17:27
 - Total de Issues: 0
 - Total de Issues fechadas: 0
 [RQ 01] Idade do repositorio (em dias): 4731
@@ -280,7 +280,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #21 Repositorio: ohmyzsh
 - URL: https://github.com/ohmyzsh/ohmyzsh
-- Total de Estrelas: 171781
+- Total de Estrelas: 171785
 - Data da criacao: 28/08/2009 18:15:37
 - Data da ultima atualizacao: 18/08/2024 09:22:30
 - Total de Issues: 4791
@@ -294,12 +294,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #22 Repositorio: bootstrap
 - URL: https://github.com/twbs/bootstrap
-- Total de Estrelas: 169772
+- Total de Estrelas: 169778
 - Data da criacao: 29/07/2011 21:19:00
 - Data da ultima atualizacao: 13/08/2024 12:53:44
 - Total de Issues: 22459
 - Total de Issues fechadas: 22012
-[RQ 01] Idade do repositorio (em dias): 4768
+[RQ 01] Idade do repositorio (em dias): 4769
 [RQ 02] Total de pull requests aceitas: 15278
 [RQ 03] Total de releases: 89
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 5
@@ -308,7 +308,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #23 Repositorio: computer-science
 - URL: https://github.com/ossu/computer-science
-- Total de Estrelas: 167446
+- Total de Estrelas: 167447
 - Data da criacao: 04/05/2014 00:18:39
 - Data da ultima atualizacao: 19/07/2024 11:35:33
 - Total de Issues: 635
@@ -322,7 +322,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #24 Repositorio: AutoGPT
 - URL: https://github.com/Significant-Gravitas/AutoGPT
-- Total de Estrelas: 165846
+- Total de Estrelas: 165849
 - Data da criacao: 16/03/2023 09:21:07
 - Data da ultima atualizacao: 16/08/2024 15:13:10
 - Total de Issues: 2505
@@ -336,26 +336,26 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #25 Repositorio: flutter
 - URL: https://github.com/flutter/flutter
-- Total de Estrelas: 164127
+- Total de Estrelas: 164128
 - Data da criacao: 06/03/2015 22:54:58
 - Data da ultima atualizacao: 18/08/2024 17:24:40
-- Total de Issues: 97518
+- Total de Issues: 97521
 - Total de Issues fechadas: 85013
 [RQ 01] Idade do repositorio (em dias): 3452
 [RQ 02] Total de pull requests aceitas: 55136
 [RQ 03] Total de releases: 7
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Dart
-[RQ 06] Percentual de Issues fechadas: 87.18%
+[RQ 06] Percentual de Issues fechadas: 87.17%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #26 Repositorio: vscode
 - URL: https://github.com/microsoft/vscode
-- Total de Estrelas: 161631
+- Total de Estrelas: 161632
 - Data da criacao: 03/09/2015 20:23:38
 - Data da ultima atualizacao: 17/08/2024 07:38:22
-- Total de Issues: 181369
-- Total de Issues fechadas: 172316
-[RQ 01] Idade do repositorio (em dias): 3271
+- Total de Issues: 181373
+- Total de Issues fechadas: 172319
+[RQ 01] Idade do repositorio (em dias): 3272
 [RQ 02] Total de pull requests aceitas: 31761
 [RQ 03] Total de releases: 139
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 1
@@ -364,12 +364,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #27 Repositorio: gitignore
 - URL: https://github.com/github/gitignore
-- Total de Estrelas: 160496
+- Total de Estrelas: 160497
 - Data da criacao: 08/11/2010 20:17:14
 - Data da ultima atualizacao: 11/06/2024 18:14:44
 - Total de Issues: 0
 - Total de Issues fechadas: 0
-[RQ 01] Idade do repositorio (em dias): 5031
+[RQ 01] Idade do repositorio (em dias): 5032
 [RQ 02] Total de pull requests aceitas: 4403
 [RQ 03] Total de releases: 0
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 68
@@ -392,7 +392,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #29 Repositorio: the-art-of-command-line
 - URL: https://github.com/jlevy/the-art-of-command-line
-- Total de Estrelas: 151766
+- Total de Estrelas: 151767
 - Data da criacao: 20/05/2015 15:11:03
 - Data da ultima atualizacao: 12/07/2023 21:40:23
 - Total de Issues: 250
@@ -420,7 +420,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #31 Repositorio: javascript
 - URL: https://github.com/airbnb/javascript
-- Total de Estrelas: 144307
+- Total de Estrelas: 144308
 - Data da criacao: 01/11/2012 23:13:50
 - Data da ultima atualizacao: 07/04/2024 18:18:29
 - Total de Issues: 1323
@@ -434,7 +434,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #32 Repositorio: the-book-of-secret-knowledge
 - URL: https://github.com/trimstray/the-book-of-secret-knowledge
-- Total de Estrelas: 140949
+- Total de Estrelas: 140960
 - Data da criacao: 23/06/2018 10:43:14
 - Data da ultima atualizacao: 16/01/2024 18:51:08
 - Total de Issues: 0
@@ -448,21 +448,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #33 Repositorio: stable-diffusion-webui
 - URL: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-- Total de Estrelas: 138121
+- Total de Estrelas: 138127
 - Data da criacao: 22/08/2022 14:05:26
 - Data da ultima atualizacao: 27/07/2024 12:49:39
-- Total de Issues: 7601
+- Total de Issues: 7602
 - Total de Issues fechadas: 5387
 [RQ 01] Idade do repositorio (em dias): 727
-[RQ 02] Total de pull requests aceitas: 3066
+[RQ 02] Total de pull requests aceitas: 3067
 [RQ 03] Total de releases: 26
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 22
 [RQ 05] Linguagem primaria: Python
-[RQ 06] Percentual de Issues fechadas: 70.87%
+[RQ 06] Percentual de Issues fechadas: 70.86%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #34 Repositorio: youtube-dl
 - URL: https://github.com/ytdl-org/youtube-dl
-- Total de Estrelas: 130814
+- Total de Estrelas: 130819
 - Data da criacao: 31/10/2010 14:35:07
 - Data da ultima atualizacao: 06/08/2024 19:59:09
 - Total de Issues: 26586
@@ -470,13 +470,13 @@
 [RQ 01] Idade do repositorio (em dias): 5040
 [RQ 02] Total de pull requests aceitas: 4938
 [RQ 03] Total de releases: 341
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 11
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 12
 [RQ 05] Linguagem primaria: Python
 [RQ 06] Percentual de Issues fechadas: 86.06%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #35 Repositorio: transformers
 - URL: https://github.com/huggingface/transformers
-- Total de Estrelas: 130692
+- Total de Estrelas: 130693
 - Data da criacao: 29/10/2018 13:56:00
 - Data da ultima atualizacao: 17/08/2024 15:37:00
 - Total de Issues: 15492
@@ -490,7 +490,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #36 Repositorio: awesome-go
 - URL: https://github.com/avelino/awesome-go
-- Total de Estrelas: 127183
+- Total de Estrelas: 127191
 - Data da criacao: 06/07/2014 13:42:15
 - Data da ultima atualizacao: 18/08/2024 02:51:38
 - Total de Issues: 645
@@ -524,7 +524,7 @@
 - Total de Issues: 20979
 - Total de Issues fechadas: 18103
 [RQ 01] Idade do repositorio (em dias): 2873
-[RQ 02] Total de pull requests aceitas: 23150
+[RQ 02] Total de pull requests aceitas: 23151
 [RQ 03] Total de releases: 1000
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: JavaScript
@@ -535,18 +535,18 @@
 - Total de Estrelas: 122041
 - Data da criacao: 19/08/2014 04:33:40
 - Data da ultima atualizacao: 17/08/2024 03:03:34
-- Total de Issues: 62940
-- Total de Issues fechadas: 53861
+- Total de Issues: 62942
+- Total de Issues fechadas: 53862
 [RQ 01] Idade do repositorio (em dias): 3652
 [RQ 02] Total de pull requests aceitas: 4078
 [RQ 03] Total de releases: 0
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 1
 [RQ 05] Linguagem primaria: Go
-[RQ 06] Percentual de Issues fechadas: 85.58%
+[RQ 06] Percentual de Issues fechadas: 85.57%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #40 Repositorio: 30-seconds-of-code
 - URL: https://github.com/Chalarangelo/30-seconds-of-code
-- Total de Estrelas: 120768
+- Total de Estrelas: 120770
 - Data da criacao: 29/11/2017 17:35:03
 - Data da ultima atualizacao: 05/08/2024 17:10:28
 - Total de Issues: 294
@@ -560,7 +560,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #41 Repositorio: react-native
 - URL: https://github.com/facebook/react-native
-- Total de Estrelas: 117635
+- Total de Estrelas: 117636
 - Data da criacao: 09/01/2015 18:10:16
 - Data da ultima atualizacao: 18/08/2024 00:51:37
 - Total de Issues: 25948
@@ -574,7 +574,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #42 Repositorio: tech-interview-handbook
 - URL: https://github.com/yangshun/tech-interview-handbook
-- Total de Estrelas: 115390
+- Total de Estrelas: 115400
 - Data da criacao: 05/07/2016 05:00:48
 - Data da ultima atualizacao: 28/06/2024 22:26:29
 - Total de Issues: 93
@@ -594,7 +594,7 @@
 - Total de Issues: 19948
 - Total de Issues fechadas: 19102
 [RQ 01] Idade do repositorio (em dias): 4146
-[RQ 02] Total de pull requests aceitas: 22581
+[RQ 02] Total de pull requests aceitas: 22583
 [RQ 03] Total de releases: 1000
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 2
 [RQ 05] Linguagem primaria: C++
@@ -616,21 +616,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #45 Repositorio: kubernetes
 - URL: https://github.com/kubernetes/kubernetes
-- Total de Estrelas: 109243
+- Total de Estrelas: 109246
 - Data da criacao: 06/06/2014 22:56:04
 - Data da ultima atualizacao: 18/08/2024 19:06:56
 - Total de Issues: 45613
-- Total de Issues fechadas: 43762
+- Total de Issues fechadas: 43764
 [RQ 01] Idade do repositorio (em dias): 3725
 [RQ 02] Total de pull requests aceitas: 80707
 [RQ 03] Total de releases: 690
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Go
-[RQ 06] Percentual de Issues fechadas: 95.94%
+[RQ 06] Percentual de Issues fechadas: 95.95%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #46 Repositorio: d3
 - URL: https://github.com/d3/d3
-- Total de Estrelas: 108292
+- Total de Estrelas: 108293
 - Data da criacao: 27/09/2010 17:22:42
 - Data da ultima atualizacao: 08/07/2024 09:38:34
 - Total de Issues: 2197
@@ -644,7 +644,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #47 Repositorio: awesome-chatgpt-prompts
 - URL: https://github.com/f/awesome-chatgpt-prompts
-- Total de Estrelas: 108181
+- Total de Estrelas: 108184
 - Data da criacao: 05/12/2022 13:54:13
 - Data da ultima atualizacao: 31/07/2024 08:53:59
 - Total de Issues: 0
@@ -658,7 +658,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #48 Repositorio: PowerToys
 - URL: https://github.com/microsoft/PowerToys
-- Total de Estrelas: 108129
+- Total de Estrelas: 108130
 - Data da criacao: 01/05/2019 17:44:02
 - Data da ultima atualizacao: 18/08/2024 13:59:07
 - Total de Issues: 28762
@@ -672,7 +672,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #49 Repositorio: scrcpy
 - URL: https://github.com/Genymobile/scrcpy
-- Total de Estrelas: 107540
+- Total de Estrelas: 107543
 - Data da criacao: 21/11/2017 18:00:27
 - Data da ultima atualizacao: 02/08/2024 20:58:09
 - Total de Issues: 4666
@@ -680,19 +680,19 @@
 [RQ 01] Idade do repositorio (em dias): 2462
 [RQ 02] Total de pull requests aceitas: 465
 [RQ 03] Total de releases: 39
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 15
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 16
 [RQ 05] Linguagem primaria: C
 [RQ 06] Percentual de Issues fechadas: 58.94%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #50 Repositorio: node
 - URL: https://github.com/nodejs/node
-- Total de Estrelas: 106049
+- Total de Estrelas: 106051
 - Data da criacao: 26/11/2014 19:57:11
 - Data da ultima atualizacao: 18/08/2024 17:34:11
 - Total de Issues: 18007
 - Total de Issues fechadas: 16424
-[RQ 01] Idade do repositorio (em dias): 3552
-[RQ 02] Total de pull requests aceitas: 34309
+[RQ 01] Idade do repositorio (em dias): 3553
+[RQ 02] Total de pull requests aceitas: 34310
 [RQ 03] Total de releases: 402
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: JavaScript
@@ -700,7 +700,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #51 Repositorio: axios
 - URL: https://github.com/axios/axios
-- Total de Estrelas: 105021
+- Total de Estrelas: 105022
 - Data da criacao: 18/08/2014 22:30:27
 - Data da ultima atualizacao: 17/08/2024 20:02:15
 - Total de Issues: 4651
@@ -708,7 +708,7 @@
 [RQ 01] Idade do repositorio (em dias): 3652
 [RQ 02] Total de pull requests aceitas: 1660
 [RQ 03] Total de releases: 81
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 0
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 1
 [RQ 05] Linguagem primaria: JavaScript
 [RQ 06] Percentual de Issues fechadas: 86.52%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -722,41 +722,41 @@
 [RQ 01] Idade do repositorio (em dias): 2954
 [RQ 02] Total de pull requests aceitas: 4279
 [RQ 03] Total de releases: 83
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 430
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 431
 [RQ 05] Linguagem primaria: JavaScript
 [RQ 06] Percentual de Issues fechadas: 78.88%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #53 Repositorio: three.js
 - URL: https://github.com/mrdoob/three.js
-- Total de Estrelas: 101186
+- Total de Estrelas: 101189
 - Data da criacao: 23/03/2010 18:58:01
-- Data da ultima atualizacao: 17/08/2024 09:25:48
-- Total de Issues: 12467
+- Data da ultima atualizacao: 18/08/2024 21:33:53
+- Total de Issues: 12468
 - Total de Issues fechadas: 12077
 [RQ 01] Idade do repositorio (em dias): 5262
-[RQ 02] Total de pull requests aceitas: 16491
+[RQ 02] Total de pull requests aceitas: 16494
 [RQ 03] Total de releases: 159
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 1
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: JavaScript
-[RQ 06] Percentual de Issues fechadas: 96.87%
+[RQ 06] Percentual de Issues fechadas: 96.86%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #54 Repositorio: TypeScript
 - URL: https://github.com/microsoft/TypeScript
-- Total de Estrelas: 99688
+- Total de Estrelas: 99689
 - Data da criacao: 17/06/2014 15:28:39
 - Data da ultima atualizacao: 17/08/2024 19:28:28
-- Total de Issues: 40645
+- Total de Issues: 40647
 - Total de Issues fechadas: 35435
 [RQ 01] Idade do repositorio (em dias): 3715
-[RQ 02] Total de pull requests aceitas: 17974
+[RQ 02] Total de pull requests aceitas: 17975
 [RQ 03] Total de releases: 198
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 0
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 1
 [RQ 05] Linguagem primaria: TypeScript
 [RQ 06] Percentual de Issues fechadas: 87.18%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #55 Repositorio: nodebestpractices
 - URL: https://github.com/goldbergyoni/nodebestpractices
-- Total de Estrelas: 98815
+- Total de Estrelas: 98817
 - Data da criacao: 15/09/2017 08:33:19
 - Data da ultima atualizacao: 06/03/2024 16:18:29
 - Total de Issues: 321
@@ -784,13 +784,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #57 Repositorio: rust
 - URL: https://github.com/rust-lang/rust
-- Total de Estrelas: 96068
+- Total de Estrelas: 96070
 - Data da criacao: 16/06/2010 20:39:03
 - Data da ultima atualizacao: 18/08/2024 15:52:58
-- Total de Issues: 53942
+- Total de Issues: 53945
 - Total de Issues fechadas: 44417
-[RQ 01] Idade do repositorio (em dias): 5176
-[RQ 02] Total de pull requests aceitas: 74938
+[RQ 01] Idade do repositorio (em dias): 5177
+[RQ 02] Total de pull requests aceitas: 74939
 [RQ 03] Total de releases: 128
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Rust
@@ -798,13 +798,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #58 Repositorio: angular
 - URL: https://github.com/angular/angular
-- Total de Estrelas: 95513
+- Total de Estrelas: 95514
 - Data da criacao: 18/09/2014 16:12:01
 - Data da ultima atualizacao: 17/08/2024 13:54:15
 - Total de Issues: 27868
 - Total de Issues fechadas: 26478
 [RQ 01] Idade do repositorio (em dias): 3622
-[RQ 02] Total de pull requests aceitas: 27971
+[RQ 02] Total de pull requests aceitas: 27972
 [RQ 03] Total de releases: 352
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 1
 [RQ 05] Linguagem primaria: TypeScript
@@ -826,21 +826,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #60 Repositorio: deno
 - URL: https://github.com/denoland/deno
-- Total de Estrelas: 93703
+- Total de Estrelas: 93704
 - Data da criacao: 15/05/2018 01:34:26
-- Data da ultima atualizacao: 18/08/2024 15:37:39
-- Total de Issues: 10514
+- Data da ultima atualizacao: 18/08/2024 21:02:32
+- Total de Issues: 10516
 - Total de Issues fechadas: 8618
 [RQ 01] Idade do repositorio (em dias): 2287
-[RQ 02] Total de pull requests aceitas: 13443
+[RQ 02] Total de pull requests aceitas: 13446
 [RQ 03] Total de releases: 288
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Rust
-[RQ 06] Percentual de Issues fechadas: 81.97%
+[RQ 06] Percentual de Issues fechadas: 81.95%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #61 Repositorio: hello-algo
 - URL: https://github.com/krahets/hello-algo
-- Total de Estrelas: 93018
+- Total de Estrelas: 93027
 - Data da criacao: 04/11/2022 11:08:34
 - Data da ultima atualizacao: 06/08/2024 07:08:01
 - Total de Issues: 205
@@ -854,17 +854,17 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #62 Repositorio: material-ui
 - URL: https://github.com/mui/material-ui
-- Total de Estrelas: 92973
+- Total de Estrelas: 92974
 - Data da criacao: 18/08/2014 19:11:54
 - Data da ultima atualizacao: 18/08/2024 02:51:25
 - Total de Issues: 19196
-- Total de Issues fechadas: 17503
+- Total de Issues fechadas: 17504
 [RQ 01] Idade do repositorio (em dias): 3653
 [RQ 02] Total de pull requests aceitas: 22932
 [RQ 03] Total de releases: 487
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: TypeScript
-[RQ 06] Percentual de Issues fechadas: 91.18%
+[RQ 06] Percentual de Issues fechadas: 91.19%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #63 Repositorio: ant-design
 - URL: https://github.com/ant-design/ant-design
@@ -882,17 +882,17 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #64 Repositorio: Microsoft-Activation-Scripts
 - URL: https://github.com/massgravel/Microsoft-Activation-Scripts
-- Total de Estrelas: 91289
+- Total de Estrelas: 91297
 - Data da criacao: 12/01/2020 23:03:34
 - Data da ultima atualizacao: 12/08/2024 00:04:06
 - Total de Issues: 377
-- Total de Issues fechadas: 372
+- Total de Issues fechadas: 373
 [RQ 01] Idade do repositorio (em dias): 1679
 [RQ 02] Total de pull requests aceitas: 29
 [RQ 03] Total de releases: 15
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 6
 [RQ 05] Linguagem primaria: Batchfile
-[RQ 06] Percentual de Issues fechadas: 98.67%
+[RQ 06] Percentual de Issues fechadas: 98.94%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #65 Repositorio: clean-code-javascript
 - URL: https://github.com/ryanmcdermott/clean-code-javascript
@@ -910,7 +910,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #66 Repositorio: langchain
 - URL: https://github.com/langchain-ai/langchain
-- Total de Estrelas: 90840
+- Total de Estrelas: 90847
 - Data da criacao: 17/10/2022 02:58:36
 - Data da ultima atualizacao: 18/08/2024 19:15:52
 - Total de Issues: 7411
@@ -924,7 +924,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #67 Repositorio: HelloGitHub
 - URL: https://github.com/521xueweihan/HelloGitHub
-- Total de Estrelas: 89357
+- Total de Estrelas: 89360
 - Data da criacao: 04/05/2016 06:24:11
 - Data da ultima atualizacao: 26/07/2024 00:04:41
 - Total de Issues: 2665
@@ -952,13 +952,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #69 Repositorio: godot
 - URL: https://github.com/godotengine/godot
-- Total de Estrelas: 88015
+- Total de Estrelas: 88019
 - Data da criacao: 04/01/2014 16:05:36
 - Data da ultima atualizacao: 16/08/2024 22:47:17
-- Total de Issues: 51686
-- Total de Issues fechadas: 41200
+- Total de Issues: 51693
+- Total de Issues fechadas: 41203
 [RQ 01] Idade do repositorio (em dias): 3879
-[RQ 02] Total de pull requests aceitas: 42973
+[RQ 02] Total de pull requests aceitas: 42977
 [RQ 03] Total de releases: 57
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 1
 [RQ 05] Linguagem primaria: C++
@@ -966,7 +966,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #70 Repositorio: puppeteer
 - URL: https://github.com/puppeteer/puppeteer
-- Total de Estrelas: 87973
+- Total de Estrelas: 87975
 - Data da criacao: 09/05/2017 22:16:13
 - Data da ultima atualizacao: 16/08/2024 13:00:11
 - Total de Issues: 6849
@@ -980,7 +980,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #71 Repositorio: vue-element-admin
 - URL: https://github.com/PanJiaChen/vue-element-admin
-- Total de Estrelas: 87356
+- Total de Estrelas: 87357
 - Data da criacao: 17/04/2017 03:35:49
 - Data da ultima atualizacao: 11/04/2022 03:32:06
 - Total de Issues: 3582
@@ -994,12 +994,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #72 Repositorio: free-for-dev
 - URL: https://github.com/ripienaar/free-for-dev
-- Total de Estrelas: 86548
+- Total de Estrelas: 86551
 - Data da criacao: 18/03/2015 21:06:26
 - Data da ultima atualizacao: 17/08/2024 18:08:39
 - Total de Issues: 0
 - Total de Issues fechadas: 0
-[RQ 01] Idade do repositorio (em dias): 3440
+[RQ 01] Idade do repositorio (em dias): 3441
 [RQ 02] Total de pull requests aceitas: 3295
 [RQ 03] Total de releases: 0
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 1
@@ -1008,7 +1008,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #73 Repositorio: papers-we-love
 - URL: https://github.com/papers-we-love/papers-we-love
-- Total de Estrelas: 86144
+- Total de Estrelas: 86146
 - Data da criacao: 15/12/2013 14:31:41
 - Data da ultima atualizacao: 29/06/2024 16:31:38
 - Total de Issues: 236
@@ -1022,21 +1022,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #74 Repositorio: ollama
 - URL: https://github.com/ollama/ollama
-- Total de Estrelas: 85547
+- Total de Estrelas: 85555
 - Data da criacao: 26/06/2023 19:39:32
 - Data da ultima atualizacao: 15/08/2024 22:31:15
-- Total de Issues: 4034
-- Total de Issues fechadas: 3016
-[RQ 01] Idade do repositorio (em dias): 418
+- Total de Issues: 4035
+- Total de Issues fechadas: 3017
+[RQ 01] Idade do repositorio (em dias): 419
 [RQ 02] Total de pull requests aceitas: 2185
 [RQ 03] Total de releases: 86
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 2
 [RQ 05] Linguagem primaria: Go
-[RQ 06] Percentual de Issues fechadas: 74.76%
+[RQ 06] Percentual de Issues fechadas: 74.77%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #75 Repositorio: thefuck
 - URL: https://github.com/nvbn/thefuck
-- Total de Estrelas: 84190
+- Total de Estrelas: 84193
 - Data da criacao: 08/04/2015 15:08:04
 - Data da ultima atualizacao: 25/01/2024 19:52:35
 - Total de Issues: 724
@@ -1044,13 +1044,13 @@
 [RQ 01] Idade do repositorio (em dias): 3420
 [RQ 02] Total de pull requests aceitas: 693
 [RQ 03] Total de releases: 17
-[RQ 04] Tempo ate a ultima atualizacao (em dias): 205
+[RQ 04] Tempo ate a ultima atualizacao (em dias): 206
 [RQ 05] Linguagem primaria: Python
 [RQ 06] Percentual de Issues fechadas: 64.92%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #76 Repositorio: storybook
 - URL: https://github.com/storybookjs/storybook
-- Total de Estrelas: 83766
+- Total de Estrelas: 83767
 - Data da criacao: 18/03/2016 04:23:44
 - Data da ultima atualizacao: 17/08/2024 16:07:18
 - Total de Issues: 12678
@@ -1064,7 +1064,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #77 Repositorio: frp
 - URL: https://github.com/fatedier/frp
-- Total de Estrelas: 83532
+- Total de Estrelas: 83534
 - Data da criacao: 21/12/2015 15:24:59
 - Data da ultima atualizacao: 16/08/2024 14:24:27
 - Total de Issues: 3472
@@ -1078,7 +1078,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #78 Repositorio: iptv
 - URL: https://github.com/iptv-org/iptv
-- Total de Estrelas: 83364
+- Total de Estrelas: 83371
 - Data da criacao: 14/11/2018 22:00:57
 - Data da ultima atualizacao: 18/08/2024 17:25:53
 - Total de Issues: 8223
@@ -1106,7 +1106,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #80 Repositorio: Awesome-Hacking
 - URL: https://github.com/Hack-with-Github/Awesome-Hacking
-- Total de Estrelas: 81590
+- Total de Estrelas: 81596
 - Data da criacao: 30/03/2016 15:47:10
 - Data da ultima atualizacao: 13/04/2024 12:39:36
 - Total de Issues: 0
@@ -1120,21 +1120,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #81 Repositorio: pytorch
 - URL: https://github.com/pytorch/pytorch
-- Total de Estrelas: 81417
+- Total de Estrelas: 81421
 - Data da criacao: 13/08/2016 05:26:41
-- Data da ultima atualizacao: 18/08/2024 19:14:29
+- Data da ultima atualizacao: 18/08/2024 20:31:54
 - Total de Issues: 44209
-- Total de Issues fechadas: 30506
+- Total de Issues fechadas: 30508
 [RQ 01] Idade do repositorio (em dias): 2927
-[RQ 02] Total de pull requests aceitas: 89242
+[RQ 02] Total de pull requests aceitas: 89244
 [RQ 03] Total de releases: 54
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Python
-[RQ 06] Percentual de Issues fechadas: 69.0%
+[RQ 06] Percentual de Issues fechadas: 69.01%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #82 Repositorio: tailwindcss
 - URL: https://github.com/tailwindlabs/tailwindcss
-- Total de Estrelas: 81286
+- Total de Estrelas: 81287
 - Data da criacao: 06/10/2017 14:59:14
 - Data da ultima atualizacao: 16/08/2024 17:42:04
 - Total de Issues: 3341
@@ -1148,7 +1148,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #83 Repositorio: every-programmer-should-know
 - URL: https://github.com/mtdvio/every-programmer-should-know
-- Total de Estrelas: 81231
+- Total de Estrelas: 81234
 - Data da criacao: 24/08/2017 13:18:26
 - Data da ultima atualizacao: 10/05/2024 06:51:02
 - Total de Issues: 51
@@ -1162,7 +1162,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #84 Repositorio: tauri
 - URL: https://github.com/tauri-apps/tauri
-- Total de Estrelas: 80973
+- Total de Estrelas: 80976
 - Data da criacao: 13/07/2019 09:09:37
 - Data da ultima atualizacao: 18/08/2024 10:55:38
 - Total de Issues: 4321
@@ -1176,21 +1176,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #85 Repositorio: neovim
 - URL: https://github.com/neovim/neovim
-- Total de Estrelas: 80958
+- Total de Estrelas: 80962
 - Data da criacao: 31/01/2014 13:39:22
 - Data da ultima atualizacao: 18/08/2024 03:28:03
-- Total de Issues: 11559
+- Total de Issues: 11560
 - Total de Issues fechadas: 10106
 [RQ 01] Idade do repositorio (em dias): 3852
 [RQ 02] Total de pull requests aceitas: 18062
 [RQ 03] Total de releases: 38
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 0
 [RQ 05] Linguagem primaria: Vim Script
-[RQ 06] Percentual de Issues fechadas: 87.43%
+[RQ 06] Percentual de Issues fechadas: 87.42%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #86 Repositorio: animate.css
 - URL: https://github.com/animate-css/animate.css
-- Total de Estrelas: 80400
+- Total de Estrelas: 80401
 - Data da criacao: 12/10/2011 10:07:38
 - Data da ultima atualizacao: 02/03/2024 10:57:25
 - Total de Issues: 864
@@ -1204,11 +1204,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #87 Repositorio: yt-dlp
 - URL: https://github.com/yt-dlp/yt-dlp
-- Total de Estrelas: 80223
+- Total de Estrelas: 80230
 - Data da criacao: 26/10/2020 04:22:55
 - Data da ultima atualizacao: 18/08/2024 16:50:06
-- Total de Issues: 7564
-- Total de Issues fechadas: 6187
+- Total de Issues: 7565
+- Total de Issues fechadas: 6188
 [RQ 01] Idade do repositorio (em dias): 1392
 [RQ 02] Total de pull requests aceitas: 2991
 [RQ 03] Total de releases: 91
@@ -1218,12 +1218,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #88 Repositorio: realworld
 - URL: https://github.com/gothinkster/realworld
-- Total de Estrelas: 80130
+- Total de Estrelas: 80131
 - Data da criacao: 26/02/2016 20:49:53
 - Data da ultima atualizacao: 16/08/2024 17:54:30
 - Total de Issues: 531
 - Total de Issues fechadas: 491
-[RQ 01] Idade do repositorio (em dias): 3095
+[RQ 01] Idade do repositorio (em dias): 3096
 [RQ 02] Total de pull requests aceitas: 818
 [RQ 03] Total de releases: 0
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 2
@@ -1232,7 +1232,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #89 Repositorio: excalidraw
 - URL: https://github.com/excalidraw/excalidraw
-- Total de Estrelas: 79350
+- Total de Estrelas: 79354
 - Data da criacao: 02/01/2020 01:04:43
 - Data da ultima atualizacao: 15/08/2024 16:48:25
 - Total de Issues: 3434
@@ -1246,7 +1246,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #90 Repositorio: django
 - URL: https://github.com/django/django
-- Total de Estrelas: 78531
+- Total de Estrelas: 78532
 - Data da criacao: 28/04/2012 02:47:18
 - Data da ultima atualizacao: 15/08/2024 06:52:19
 - Total de Issues: 0
@@ -1260,7 +1260,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #91 Repositorio: nvm
 - URL: https://github.com/nvm-sh/nvm
-- Total de Estrelas: 78302
+- Total de Estrelas: 78303
 - Data da criacao: 15/04/2010 17:47:47
 - Data da ultima atualizacao: 07/08/2024 05:38:37
 - Total de Issues: 2179
@@ -1274,7 +1274,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #92 Repositorio: svelte
 - URL: https://github.com/sveltejs/svelte
-- Total de Estrelas: 77958
+- Total de Estrelas: 77957
 - Data da criacao: 20/11/2016 18:13:05
 - Data da ultima atualizacao: 18/08/2024 18:36:53
 - Total de Issues: 6868
@@ -1292,13 +1292,13 @@
 - Data da criacao: 19/12/2010 15:16:43
 - Data da ultima atualizacao: 16/08/2024 15:54:05
 - Total de Issues: 8094
-- Total de Issues fechadas: 7736
+- Total de Issues fechadas: 7737
 [RQ 01] Idade do repositorio (em dias): 4991
-[RQ 02] Total de pull requests aceitas: 21135
+[RQ 02] Total de pull requests aceitas: 21136
 [RQ 03] Total de releases: 51
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 2
 [RQ 05] Linguagem primaria: C++
-[RQ 06] Percentual de Issues fechadas: 95.58%
+[RQ 06] Percentual de Issues fechadas: 95.59%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #94 Repositorio: laravel
 - URL: https://github.com/laravel/laravel
@@ -1316,7 +1316,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #95 Repositorio: app-ideas
 - URL: https://github.com/florinpop17/app-ideas
-- Total de Estrelas: 77783
+- Total de Estrelas: 77787
 - Data da criacao: 25/02/2019 18:36:56
 - Data da ultima atualizacao: 05/05/2023 11:19:50
 - Total de Issues: 145
@@ -1330,13 +1330,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #96 Repositorio: opencv
 - URL: https://github.com/opencv/opencv
-- Total de Estrelas: 77512
+- Total de Estrelas: 77515
 - Data da criacao: 19/07/2012 09:40:17
 - Data da ultima atualizacao: 16/08/2024 01:08:34
 - Total de Issues: 10683
 - Total de Issues fechadas: 8205
 [RQ 01] Idade do repositorio (em dias): 4413
-[RQ 02] Total de pull requests aceitas: 15189
+[RQ 02] Total de pull requests aceitas: 15190
 [RQ 03] Total de releases: 63
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 2
 [RQ 05] Linguagem primaria: C++
@@ -1344,7 +1344,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #97 Repositorio: gin
 - URL: https://github.com/gin-gonic/gin
-- Total de Estrelas: 77475
+- Total de Estrelas: 77478
 - Data da criacao: 16/06/2014 23:57:25
 - Data da ultima atualizacao: 14/07/2024 12:34:34
 - Total de Issues: 2216
@@ -1358,7 +1358,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #98 Repositorio: mall
 - URL: https://github.com/macrozheng/mall
-- Total de Estrelas: 76984
+- Total de Estrelas: 76985
 - Data da criacao: 04/04/2018 01:11:44
 - Data da ultima atualizacao: 17/07/2024 06:55:07
 - Total de Issues: 492
@@ -1391,7 +1391,7 @@
 - Data da ultima atualizacao: 29/02/2024 16:53:30
 - Total de Issues: 1324
 - Total de Issues fechadas: 934
-[RQ 01] Idade do repositorio (em dias): 3567
+[RQ 01] Idade do repositorio (em dias): 3568
 [RQ 02] Total de pull requests aceitas: 187
 [RQ 03] Total de releases: 29
 [RQ 04] Tempo ate a ultima atualizacao (em dias): 171

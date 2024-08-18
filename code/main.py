@@ -10,14 +10,17 @@ load_dotenv('.env')
 # Obtém o token do GitHub
 personal_access_token = os.getenv('PERSONAL_ACCESS_TOKEN')
 
-# Exibe o valor do token
-#print(f"Token carregado: {personal_access_token}")
-
 # Função para executar a consulta GraphQL
 def run_graphql_query(query, variables=None):
     url = "https://api.github.com/graphql"
-    headers = {"Authorization": f"bearer {personal_access_token}"}
+
+    headers = {
+        "Authorization": f"Bearer {personal_access_token}",
+        "Content-Type": "application/json"
+    }
+
     json = {"query": query, "variables": variables}
+
     retry_attempts = 3
     for attempt in range(retry_attempts):
         response = requests.post(url, json=json, headers=headers)
@@ -35,18 +38,18 @@ def run_graphql_query(query, variables=None):
 # Função para obter os repositórios mais populares com base no número de estrelas com paginação
 def get_popular_repos(num_repos):
     query = """
-    query($numRepos: Int!, $cursor: String) {
-        search(query: "stars:>0", type: REPOSITORY, first: $numRepos, after: $cursor) {
+    query($number_of_repos_per_request: Int!, $cursor: String) {
+        search(query: "stars:>0", type: REPOSITORY, first: $number_of_repos_per_request, after: $cursor) {
             edges {
                 node {
                     ... on Repository {
-                        name    
-                        createdAt                          
-                        url                        
-                             
+                        name
+                        createdAt
+                        url
+                      
                         stargazers {
                             totalCount
-                        }                                            
+                        }
                         
                         issues(states: CLOSED) {
                             totalCount
@@ -62,7 +65,7 @@ def get_popular_repos(num_repos):
                         
                         primaryLanguage {
                             name
-                        }                      
+                        }
                        
                         closedIssues: issues(states: [CLOSED]) {
                             totalCount
@@ -96,7 +99,7 @@ def get_popular_repos(num_repos):
     cursor = None
 
     while len(repos) < num_repos:
-        variables = {"numRepos": 10, "cursor": cursor}
+        variables = {"number_of_repos_per_request": 10, "cursor": cursor}
         result = run_graphql_query(query, variables)
         edges = result["search"]["edges"]
         repos.extend(edges)
