@@ -1,4 +1,4 @@
-# 📈 Análise de repositorios populares no GitHub - [Lab01S01]
+# 📈 Análise de repositorios populares no GitHub - [Lab01]
 
 💻Laboratório de Experimentação de Software 
 
