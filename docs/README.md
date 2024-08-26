@@ -1,11 +1,26 @@
 # 📈 Relatório da Análise de repositorios populares no GitHub 
 
 ## Introdução
-O presente relatório visa observar e analisar as principais características de sistemas populares no GitHub com o maior número de estrelas. 
-As hipóteses levantadas foram:
-* [H1] **Hipótese sobre o número de estrelas:** Repositórios mais antigos possuem mais estrelas, pois tiveram mais tempo de ganhar popularidade.
-* [H2] **Hipótese sobre Linguagem de Programação:** As 3 linguagens mais populares dos repositórios são JavaScript, Python e C#.
-* [H3] **Hipótese sobre Issues fechadas:** Repositórios mais populares possuem um maior percentual de issues fechadas, indicando uma manutenção ativa.
+O presente relatório visa analisar as principais características dos 1000 repositórios mais populares no GitHub. O estudo busca entender como esses sistemas são desenvolvidos, a frequência com que recebem contribuições externas, a regularidade dos lançamentos de novas versões, entre outros aspectos. Para isso, foram definidos os seguintes questionamentos de pesquisa:
+* **RQ 01.** Sistemas populares são maduros/antigos?
+* **RQ 02.** Sistemas populares recebem muita contribuição externa?
+* **RQ 03.** Sistemas populares lançam releases com frequência?
+* **RQ 04.** Sistemas populares são atualizados com frequência?
+* **RQ 05.** Sistemas populares são escritos nas [linguagens mais populares](https://octoverse.github.com/)?
+* **RQ 06.** Sistemas populares possuem um alto percentual de issues fechadas?
+* **RQ 07:** Sistemas escritos em linguagens mais populares recebem mais contribuição externa, lançam mais releases e são atualizados com mais frequência?
+
+Para responder a essas perguntas, foram formuladas as seguintes hipóteses:
+* **[H1] Hipótese sobre o número de estrelas:** Repositórios mais antigos possuem mais estrelas, pois tiveram mais tempo de ganhar popularidade.
+* **[H2] Hipótese sobre Linguagem de Programação:** As 3 linguagens mais populares dos repositórios são JavaScript, Python e C#.
+* **[H3] Hipótese sobre Issues fechadas:** Repositórios mais populares possuem um maior percentual de issues fechadas, indicando uma manutenção ativa.
+* **[H4 - RQ01] Hipótese sobre maturidade:** Repositórios mais populares são mais maduros, uma vez que sistemas antigos têm mais tempo para ganhar reconhecimento, desenvolver funcionalidades e aumentar sua comunidade. 
+* **[H5 - RQ02] Hipótese sobre contribuição externa:** Sistemas populares recebem um maior número de pull requests de contribuidores externos, possuindo maior engajamento da comunidade.
+* **[H6 - RQ03] Hipótese sobre frequência de releases:** Repositórios populares tendem a lançar releases com maior frequência para manter o engajamento da comunidade de interesse.
+* **[H7 - RQ04] Hipótese sobre frequência de atualizações:** Os sitemas populares são atualizados com frequência, já que a manutenção é importante para manter a popularidade e relevância do projeto além de garantir que esse repositório está em constante evolução.
+* **[H8 - RQ05] Hipótese sobre linguagens de programação:** Os sistemas mais populares são escritos nas linguagens mais populares, a linguagem facilita a popularidade do projeto, já que mais pessoas terão o conhecimento da linguagem para desenvolver e melhorar o projeto.
+* **[H9 - RQ06] Hipótese sobre issues fechadas:** Os sistemas mais populares possuem um grande percentual de issues fechadas, o que permite que ele tenha uma menor quantidade de bugs e seja mais eficiente e popular.
+* **[H10 - RQ07] Hipótese sobre a relação entre popularidade de linguagens e contribuição externa:** A quantidade de desenvolvedores que tem conhecimento em linguagens populares é maior, o que faz com que tenha mais pessoas aptas a evoluir o sistema e lançar novas versões do mesmo, mantendo-os atualizados, portanto possuem maior contribuição externa do que as demais linguagens.
 
 ## Metodologia:
 Inicialmente, para extrair as informações foi utilizada a API GraphQL afim de coletar os dados dos repositórios mais populares, levando em consideração o maior número de estrelas e de modo ordenado decrescente. Além disso, também foram extraídas outras informações importantes do repositório como data de criação, data de última atualização, total de Issues e Issues Fechadas, idade, total de pull requestes, total de releases, linguagem primária e percentual de Issues Fechadas. Por fim, informações pesquisadas foram organizadas e armazenadas em um arquivo CSV.
@@ -89,7 +104,86 @@ A linguagem C# ficou em 8º lugar com 51 repositórios.
 | Jinja                | 1                           |
 | SCSS                 | 1                           |
 | Julia                | 1                           |
-|Total Geral	       |1000                         |
+| Total Geral	       |1000                         |
+
+
+A partir da análise dos 1000 repositórios mais populares do GitHub (maior número de estrelas) foram elaboradas respostas para cada uma das perguntas de pesquisa apresentadas previamente
+* **RQ 01. Sistemas populares são maduros/antigos?**
+       
+    **Métrica:** Idade do repositório (calculado a partir da data de sua criação)   
+
+    **Resultado:** 2962 dias ≈ 8 anos e 1 mês
+    
+    **Discussão do resultado:** A análise dos dados revela que a maioria dos projetos tem uma idade média de cerca de 8 anos, o que indica que são bastante antigos, maduros e estáveis. Projetos mais antigos geralmente possuem uma base sólida de código e uma comunidade bem estabelecida, sugerindo robustez e confiabilidade.
+
+* **RQ 02. Sistemas populares recebem muita contribuição externa?**
+       
+    **Métrica:** Total de pull requests aceitas  
+
+    **Resultado:** 973 pull requests
+    
+    **Discussão do resultado:** O número médio de pull requests é de aproximadamente 973 por projeto, o que mostra uma comunidade ativa e colaborativa, o que mostra que os projetos tem temas interessantes que chamam a atenção dos desenvolvedores.
+
+* **RQ 03. Sistemas populares lançam releases com frequência?**
+       
+    **Métrica:** Total de releases 
+
+    **Resultado:** 30,5 releases
+    
+    **Discussão do resultado:** A mediana de releases é de 30,5, indicando que os projetos recebem atualizações regulares. Isso mostra que os desenvolvedores estão engajados em lançar novas versões e corrigir problemas, mantendo o projeto relevante e eficiente.
+
+* **RQ 04. Sistemas populares são atualizados com frequência?**
+       
+    **Métrica:** Tempo até a última atualização (calculado a partir da data de última atualização)
+
+    **Resultado:** 7 dias
+    
+    **Discussão do resultado:** O tempo médio desde a última atualização é de apenas 7 dias, sugerindo que os projetos são mantidos ativamente. Esse curto intervalo demonstra que os desenvolvedores estão comprometidos em resolver problemas e melhorar o software de forma contínua, sem sinais de abandono. 
+
+* **RQ 05. Sistemas populares são escritos nas linguagens mais populares?**
+       
+    **Métrica:** Linguagem primária de cada um dos repositórios
+
+    **Resultado:** 70,7% dos repositórios são escritos nas linguagens mais populares. A distribuição dos repositórios por linguagem é a seguinte:
+    
+    * JavaScript: 157 repositórios
+    * Python: 163 repositórios
+    * TypeScript: 132 repositórios
+    * Java: 59 repositórios
+    * C#: 14 repositórios
+    * C++: 51 repositórios
+    * PHP: 9 repositórios
+    * C: 24 repositórios
+    * Shell: 23 repositórios
+    * Go: 75 repositórios
+    
+    **Discussão do resultado:** A análise revela que 70,7% dos repositórios populares são desenvolvidos nas linguagens consideradas as mais populares utilizadas no github. 
+
+* **RQ 06. Sistemas populares possuem um alto percentual de issues fechadas?**
+       
+    **Métrica:** Razão entre número de issues fechadas pelo total de issues Relatório Final.
+
+    **Resultado:** 82,59% de issues fechadas nos repositórios.
+    
+    **Discussão do resultado:** A análise revela que os repositórios populares apresentam uma razão de 82,59% entre o número de issues fechadas e o total de issues reportadas. Este percentual sugere que a maioria das issues relatadas são resolvidas, indicando um processo de manutenção eficiente e constante.
+
+* **RQ 07. Sistemas escritos em linguagens mais populares recebem mais contribuição externa, lançam mais releases e são atualizados com maior frequência?**
+       
+    **Métrica:** Contribuições externas (total de pull requests), frequência de releases (total de releases) e frequência de atualizações (tempo médio até a última atualização)
+
+    **Resultado:**
+
+    * Linguagens Populares:
+      * Mediana de Pull Requests: 1177
+      * Mediana de Releases: 47
+      * Mediana do Tempo desde a Última Atualização (dias): 4
+
+    * Outras Linguagens:
+        * Mediana de Pull Requests: 562
+        * Mediana de Releases: 0
+        * Mediana do Tempo desde a Última Atualização (dias): 31 
+    
+    **Discussão do resultado:** : A análise mostra que sistemas escritos em linguagens populares apresentam medições superiores em termos de contribuição externa, frequência de lançamentos de novas versões e atualização. Para sistemas desenvolvidos em linguagens populares, a mediana de pull requests é de 1177, o que é quase o dobro da mediana de 562 observada para sistemas em outras linguagens. Além disso, esses projetos também têm uma mediana de 47 releases, em contraste com 0 para sistemas em outras linguagens, o que indica uma atividade de lançamento muito mais frequente e regular.
 
 
 ## Discussão: Hipóteses X Resultados Obtidos
