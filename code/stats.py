@@ -1,5 +1,6 @@
 import csv
 from enums.MostPopularLanguages import MostPopularLanguages
+import matplotlib.pyplot as plt
 
 # Calcula o valor mediano da lista recebida
 def calculate_median(list):
@@ -85,7 +86,8 @@ def analyze_data_from_csv(file_path):
         'RQ07_analysis_by_language': analyze_data_by_language(popular_languages_data, other_languages_data)
     }
 
-    return results
+    return results, total_age_days, total_pull_requests, total_releases, time_since_last_update, closed_issues, total_issues, popular_languages_data, other_languages_data
+
 
 # Função para verificar se a linguagem recebida está presente no enum de linguagens mais populares
 def is_popular_language(language):
@@ -124,10 +126,29 @@ def analyze_data_by_language(popular_data, other_data):
     }
     return analysis_results
 
+# Função para plotar gráficos boxplots
+def plot_boxplot(data, title, xlabel, labels=None):
+    plt.figure(figsize=(10, 6))
+    if labels:
+        plt.boxplot(data, labels=labels)
+    else:
+        plt.boxplot(data, vert=False)
+    plt.title(title)
+    plt.xlabel(xlabel)
+    plt.show()
+
+# Função para plotar gráficos de barras
+def plot_bar_chart(categories, values, title, ylabel, color='purple'):
+    plt.figure(figsize=(10, 6))
+    plt.bar(categories, values, color=color)
+    plt.title(title)
+    plt.ylabel(ylabel)
+    plt.show()
+
 # Função principal para rodar o script e imprimir os resultados
 if __name__ == "__main__":
-    file_path = "./repos_info.csv"
-    analysis_results = analyze_data_from_csv(file_path)
+    file_path = "./repos_info.csv"   
+    analysis_results, total_age_days, total_pull_requests, total_releases, time_since_last_update, closed_issues, total_issues, popular_languages_data, other_languages_data = analyze_data_from_csv(file_path)
 
     # Exibe os resultados
     print("Resultado dos dados analisados:")
@@ -153,3 +174,34 @@ if __name__ == "__main__":
     print(f"            - Mediana de Pull Requests: {analysis_results['RQ07_analysis_by_language']['other_languages']['median_pull_requests']}")
     print(f"            - Mediana de Releases: {analysis_results['RQ07_analysis_by_language']['other_languages']['median_releases']}")
     print(f"            - Mediana do Tempo desde a Última Atualização (dias): {analysis_results['RQ07_analysis_by_language']['other_languages']['median_time_since_last_update']}")
+
+
+    # Plotagem de gráficos para cada RQ
+    # RQ01 - Boxplot da Idade dos Repositórios (dias)
+    plot_boxplot(total_age_days, 'Boxplot da Idade dos Repositórios (dias) - RQ01', 'Dias')
+
+    # RQ02 - Boxplot do Total de Pull Requests Aceitos
+    plot_boxplot(total_pull_requests, 'Boxplot do Total de Pull Requests Aceitos - RQ02', 'Total de Pull Requests')
+
+    # RQ03 - Boxplot do Total de Releases
+    plot_boxplot(total_releases, 'Boxplot do Total de Releases - RQ03', 'Total de Releases')
+
+    # RQ04 - Boxplot do Tempo desde a Última Atualização (dias)
+    plot_boxplot(time_since_last_update, 'Boxplot do Tempo desde a Última Atualização (dias) - RQ04', 'Dias')
+
+    # RQ05 - Gráfico de Barras da Quantidade de Repositórios por Linguagem Popular
+    languages = list(analysis_results['RQ05_amount_of_repositories_per_language'].keys())
+    counts = list(analysis_results['RQ05_amount_of_repositories_per_language'].values())
+    plot_bar_chart(languages, counts, 'Quantidade de Repositórios por Linguagem Popular - RQ05', 'Quantidade de Repositórios')
+
+    # RQ07 - Boxplot da Mediana de Pull Requests para Linguagens Populares e Outras Linguagens
+    rq07_data = [popular_languages_data['pull_requests'], other_languages_data['pull_requests']]
+    plot_boxplot(rq07_data, 'Boxplot da Mediana de Pull Requests - RQ07', 'Total de Pull Requests', labels=['Linguagens Populares', 'Outras Linguagens'])
+
+    # RQ07 - Boxplot da Mediana do Total de Releases para Linguagens Populares e Outras Linguagens
+    rq07_data = [popular_languages_data['releases'], other_languages_data['releases']]
+    plot_boxplot(rq07_data, 'Boxplot da Mediana do Total de Releases - RQ07', 'Total de Releases', labels=['Linguagens Populares', 'Outras Linguagens'])
+
+    # RQ07 - Boxplot da Mediana do Tempo desde a Última Atualização (dias) para Linguagens Populares e Outras Linguagens
+    rq07_data = [popular_languages_data['time_since_last_update'], other_languages_data['time_since_last_update']]
+    plot_boxplot(rq07_data, 'Boxplot da Mediana do Tempo desde a Última Atualização (dias) - RQ07', 'Dias', labels=['Linguagens Populares', 'Outras Linguagens'])
