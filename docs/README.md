@@ -205,20 +205,20 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
 ## Discussão: Hipóteses X Resultados Obtidos
 
-Em relação à hipótese 1, sobre o número de estrelas, a hipótese foi refutada. Isso porque o  repositório com o maior número de estrelas, freeCodeCamp, foi criado em 24/12/2014 e possui 399627 estrelas.
+Em relação à hipótese 1, sobre o número de estrelas, a hipótese foi refutada. Isso porque o repositório com o maior número de estrelas, freeCodeCamp, foi criado em 24/12/2014 e possui 399627 estrelas.
 Já o repositório mais antigo, Rails, foi criado em 11/04/2008 e possui 55496 estrelas.
-Além disso outros repositórios mais antigos também não possuem o maior número de estrelas como o git, jekyll e mongo. Desse modo, não é possível abordar a hipótese de que 'repositórios mais antigos possuem mais estrelas, pois tiveram mais tempo de ganhar popularidade'.
+Além disso outros repositórios mais antigos também não possuem o maior número de estrelas como o git, jekyll e mongo. Desse modo, a hipótese de que 'repositórios mais antigos possuem mais estrelas, pois tiveram mais tempo de ganhar popularidade' foi refutada.
 
-Em relação à hipóteste 2 sobre as linguagens de programação, o resultado foi parcialmente confirmado devido o Python e o Javascript estarem nos dos 3 primeiros no ranking.
-No entanto, o terceiro lugar não foi ocupado por uma das linguagens previamente especulada.
+Em relação à hipóteste 2 sobre as linguagens de programação, o resultado foi parcialmente confirmado uma vez que tanto o Python quanto o Javascript estão dentre as 3 linguagens mais populares do ranking.
+No entanto, o terceiro lugar não foi ocupado por uma das linguagens previamente especuladas.
 
-Em relação à hipótese 3, referente ao RQ01, a hipótese foi confirmada visto que a análise dos dados aborda que a maioria dos projetos possuem idade média de 8 anos, indicando que são antigos, maduros e estáveis o que proporcionam uma base sólida de código, sugerindo robustez e confiabilidade. Além disso, o gráfico boxplot indica que a maioria dos projetos possuem uma idade mediana de aproximadamente 3000 dias (8 anos), o que indica maturidade. A questão de confiabilidade desses repositórios são sugeridas por essa base sólida de código, refletida pela dispersão mais baixa de idades em comparação com projetos mais recentes, que têm maior variabilidade.
+Em relação à hipótese 3, referente ao RQ01, a hipótese foi confirmada visto que a análise dos dados aborda que a maioria dos projetos possuem idade média de 8 anos, indicando que são antigos, maduros e estáveis o que proporcionam uma base sólida de código, sugerindo robustez e confiabilidade. Além disso, o gráfico boxplot indica que a maioria dos projetos possuem uma idade mediana de aproximadamente 3000 dias (8 anos). A confiabilidade desses repositórios são confirmadas através de uma taxa de atualização frequente e por uma base sólida de código, refletida pela dispersão mais baixa de idades em comparação com projetos mais recentes, que têm maior variabilidade.
 
 Em relação à hipótese 4, referente ao RQ02, a hipótese foi validada devido o número médio de pull requests ser de aproximadamente 973 por projeto, com uma ampla dispersão o que indica que muitos repositórios recebem uma grande quantidade de contribuições externas. Dessa forma, indica que a comunidade de desenvolvedores é ativa e colaborativa fornecendo melhorias para os repositórios.
 
 Em relação à hipótese 5, referente ao RQ03, a hipótese foi comprovada pela mediana de releases ser de 30,5. Isso aponta que os projetos possuem atualizações frequentes e  que os programadores são incentivados a lançar novas versões, corrigindo erros, elaborando melhorias e mantendo o reposótio relevante e atualizado.
 
-Em relação à hipótese 6, referente ao RQ04, a hipótese foi sustentada devido o tempo médio de atualização dos repositórios ser de 7 dias. Isso indica que a frequência de novas versões é alta, mostrando que os desenvolvedores estão aptos para melhorias contínuas no sistema afim de melhorar sempre que possível.
+Em relação à hipótese 6, referente ao RQ04, a hipótese foi sustentada devido o tempo médio de atualização dos repositórios ser de 7 dias. Isso indica que a frequência de novas versões é alta, mostrando que os desenvolvedores estão ativos para melhorias contínuas no sistema, melhorando dessa forma a confiabilidade do repositório.
 
 Em relação à hipótese 7, referente ao RQ05, a hipótese foi verificada devido a quantidade de 70,7% dos respositórios utilizarem as linguagens mais populares como Python (163 repositórios), JavaScript (163 repositórios) e TypeScript (157 repositórios.)
 
