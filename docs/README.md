@@ -44,13 +44,13 @@ Posteriormente foi filtrado os dados pela data de criação e comparado os dados
 
 
 - Cálculo da média, mediana e moda das estrelas 
-![alt text](image-0.png)
+![alt text](./images/image-0.png)
 
-- imagem dos dados ordenados pela data de criação (4 repositórios mais antigos)
-![alt text](image-1.png)
+- Dados ordenados pela data de criação (4 repositórios mais antigos)
+![alt text](./images/image-1.png)
 
-- imagem dos dados ordenados pela quantidade de estrelas (4 repositórios com maior quantidade)
-![alt text](image-2.png)
+- Dados ordenados pela quantidade de estrelas (4 repositórios com maior quantidade)
+![alt text](./images/image-2.png)
 
 
 - Contagem de Linguagens: Foi calculada a frequência de cada linguagem primária nos repositórios analizados. Os resultados obtidos foram: Python (163 repositórios), JavaScript (157 repositórios) e TypeScript(132 repositórios).
@@ -113,7 +113,7 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
     **Resultado:** 2962 dias ≈ 8 anos e 1 mês
     
-    ![alt text](RQ1.png)
+    ![alt text](./images/RQ1.png)
 
     **Discussão do resultado:** A análise dos dados revela que a maioria dos projetos tem uma idade média de cerca de 8 anos, o que indica que são bastante antigos, maduros e estáveis. Projetos mais antigos geralmente possuem uma base sólida de código e uma comunidade bem estabelecida, sugerindo robustez e confiabilidade.
 
@@ -123,7 +123,7 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
     **Resultado:** 973 pull requests
 
-    ![alt text](RQ2.png)
+    ![alt text](./images/RQ2.png)
     
     **Discussão do resultado:** O número médio de pull requests é de aproximadamente 973 por projeto, o que mostra uma comunidade ativa e colaborativa, o que mostra que os projetos tem temas interessantes que chamam a atenção dos desenvolvedores.
 
@@ -133,7 +133,7 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
     **Resultado:** 30,5 releases
 
-    ![alt text](RQ3.png)
+    ![alt text](./images/RQ3.png)
     
     **Discussão do resultado:** A mediana de releases é de 30,5, indicando que os projetos recebem atualizações regulares. Isso mostra que os desenvolvedores estão engajados em lançar novas versões e corrigir problemas, mantendo o projeto relevante e eficiente.
 
@@ -143,7 +143,7 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
     **Resultado:** 7 dias
     
-    ![alt text](RQ4.png)
+    ![alt text](./images/RQ4.png)
 
     **Discussão do resultado:** O tempo médio desde a última atualização é de apenas 7 dias, sugerindo que os projetos são mantidos ativamente. Esse curto intervalo demonstra que os desenvolvedores estão comprometidos em resolver problemas e melhorar o software de forma contínua, sem sinais de abandono. 
 
@@ -163,10 +163,10 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
     * C++: 51 repositórios
     * Rust: 36 respositórios
     * C: 24 repositórios
-    * C#: 14 repositórios   
     * Shell: 23 repositórios
+    * C#: 14 repositórios
    
-    ![alt text](RQ5.png)
+    ![alt text](./images/RQ5.png)
     
     **Discussão do resultado:** A análise revela que 70,7% dos repositórios populares são desenvolvidos nas linguagens consideradas as mais populares utilizadas no github. 
 
@@ -176,7 +176,7 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
 
     **Resultado:** 82,59% de issues fechadas nos repositórios.
 
-    ![alt text](RQ6.png)
+    ![alt text](./images/RQ6.png)
     
     **Discussão do resultado:** A análise revela que os repositórios populares apresentam uma razão de 82,59% entre o número de issues fechadas e o total de issues reportadas. Este percentual sugere que a maioria das issues relatadas são resolvidas, indicando um processo de manutenção eficiente e constante.
 
@@ -196,9 +196,9 @@ A partir da análise dos 1000 repositórios mais populares do GitHub (maior núm
         * Mediana de Releases: 0
         * Mediana do Tempo desde a Última Atualização (dias): 31 
 
-        ![alt text](RQ7_1.png)
-        ![alt text](RQ7_2.png)
-        ![alt text](RQ7_3.png)
+        ![alt text](./images/RQ7_1.png)
+        ![alt text](./images/RQ7_2.png)
+        ![alt text](./images/RQ7_3.png)
     
     **Discussão do resultado:** : A análise mostra que sistemas escritos em linguagens populares apresentam medições superiores em termos de contribuição externa, frequência de lançamentos de novas versões e atualização. Para sistemas desenvolvidos em linguagens populares, a mediana de pull requests é de 1177, o que é quase o dobro da mediana de 562 observada para sistemas em outras linguagens. Além disso, esses projetos também têm uma mediana de 47 releases, em contraste com 0 para sistemas em outras linguagens, o que indica uma atividade de lançamento muito mais frequente e regular.
 
